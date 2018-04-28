@@ -1,0 +1,5 @@
+rootProject.name = 'demo-api'
+
+include ':flytecnologia-api'
+project(':flytecnologia-api').projectDir = new File('../flytecnologia-api')
+
