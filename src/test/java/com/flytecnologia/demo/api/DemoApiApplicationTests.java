@@ -1,4 +1,4 @@
-package com.flytecnologia.demoapi;
+package com.demo.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
